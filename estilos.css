@@ -64,3 +64,12 @@ body{
     margin: auto;
     margin-top: 10%;
 }
+#wellcome{
+    background-color: white;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: auto;
+    margin-top: 30%;
+    padding: 10px 10px;
+}
